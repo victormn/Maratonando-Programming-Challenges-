@@ -1,3 +1,7 @@
+// Victor Marcelino Nunes
+// The 3n+1 Problem
+// UVa: 100
+
 #include <stdio.h>
 
 int	main(){
