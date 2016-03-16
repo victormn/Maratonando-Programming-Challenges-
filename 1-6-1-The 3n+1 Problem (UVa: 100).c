@@ -5,7 +5,7 @@ int	main(){
 	int first1, first2, last1, last2, n, size, counter, max;
 	int i = 0;
 
-	while(scanf("%d %d", &first1, &last1)){
+	while(scanf("%d %d", &first1, &last1) != EOF){
 
 		if (first1 > last1){
 			first2 = last1;
